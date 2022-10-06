@@ -10,8 +10,6 @@ The navbar adapts to whether the user is logged in or not
 
 ### How the project behaves:
 <image src="https://user-images.githubusercontent.com/70982928/130323803-c30e46d0-e6c2-409a-a996-41fab5698c5d.gif">
-  
-###### Demo video is for release v1.2 ( https://github.com/ShaneWD/PasswordManagerWebsite/releases/tag/v1.2 )
 
 ## How to set up project (Windows CMD)
   
