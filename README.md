@@ -15,14 +15,6 @@ The navbar adapts to whether the user is logged in or not
 
 ## How to set up project (Windows CMD)
   
-
-###### clone the project
-```
-git clone https://github.com/ShaneWD/PasswordManagerWebsite.git
-```
-###### change directories into the project
-```
-cd PasswordManagerWebsite
 ```
 ###### install the necessary python packages
 ```
